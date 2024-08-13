@@ -29,7 +29,7 @@ El texto desencriptado aparecerá en el campo de resultados.
 `Limpiar Texto`:Haz clic en el botón "Limpiar" para borrar el contenido del campo de entrada y los resultados.
 `Modo Oscuro`: Puedes alternar entre el modo claro y oscuro utilizando el interruptor en la parte superior derecha de la página.
 
-##Autor
+## Autor
 Jeraldin Caliz - Desarrolladora
 
 
