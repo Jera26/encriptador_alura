@@ -18,7 +18,20 @@ Este proyecto es un encriptador de texto sencillo basado en el desafío de Alura
 - **SweetAlert**: Para mostrar alertas interactivas y mensajes de confirmación.
 - **Font Awesome**: Para iconos en la interfaz.
 
-Autor
+## :hammer:Funcionalidades del proyecto
+`Encriptar Texto`:Ingresa el texto en el campo de entrada.
+Haz clic en el botón "Encriptar".
+El texto encriptado aparecerá en el campo de resultados.
+`Desencriptar Texto`:Ingresa el texto encriptado en el campo de entrada.
+Haz clic en el botón "Desencriptar".
+El texto desencriptado aparecerá en el campo de resultados.
+`Copiar Resultado`:Una vez que el texto ha sido encriptado o desencriptado, puedes hacer clic en el botón "Copiar" para copiar el texto al portapapeles.
+`Limpiar Texto`:Haz clic en el botón "Limpiar" para borrar el contenido del campo de entrada y los resultados.
+`Modo Oscuro`: Puedes alternar entre el modo claro y oscuro utilizando el interruptor en la parte superior derecha de la página.
+
+##Autor
 Jeraldin Caliz - Desarrolladora
+
+
 Créditos
 Este proyecto fue desarrollado como parte del programa de Alura Latam - Oracle Next Education 2024.
